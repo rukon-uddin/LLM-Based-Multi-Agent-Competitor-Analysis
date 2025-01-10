@@ -3,7 +3,7 @@ import itertools
 import json
 import llmDataProcessingAgent
 import saveReport
-import fethDataAgent as fda
+import fetchDataAgent as fda
 import llmAgent as llm
 
 
