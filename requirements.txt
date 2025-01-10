@@ -1,0 +1,7 @@
+# python 3.11.0
+Flask
+selenium
+google
+fpdf
+beautifulsoup4
+requests
